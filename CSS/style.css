@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+}
+#title{
+    height: 10vh;
+    width: 100%;
+}
+#map{
+    height:90vh;
+    width: 100%;
+}
+.leaflet-container{
+    height: 100%;
+    width: 100%;
+}
